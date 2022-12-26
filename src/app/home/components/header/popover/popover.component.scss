@@ -1,0 +1,7 @@
+.item-divider{
+  border: 1px solid var(--ion-color-tertiary-tint);
+}
+ion-card-content p:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
